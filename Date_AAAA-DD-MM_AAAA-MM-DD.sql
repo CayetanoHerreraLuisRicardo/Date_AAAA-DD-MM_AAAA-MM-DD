@@ -1,4 +1,4 @@
-FUNCTION [dbo].[fnStrFechaFormato]
+CREATE FUNCTION [dbo].[fnStrFechaFormato]
 (	
 	@Cadena VARCHAR(30)
 )
